@@ -1,0 +1,6 @@
+{
+  "name": "THE STANE PROJECT | Luxury Indian Streetwear",
+  "description": "Premium oversized T-shirts and heavyweight hoodies. Carved for the uncommon. Built different, worn with purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
